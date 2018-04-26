@@ -1,0 +1,31 @@
+.row{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 1px solid black;
+    background: transparent;
+    vertical-align: bottom;
+    font: inherit;
+    font-family: cursive;
+   
+    font-style: italic;
+    font-size: xx-large;
+    width: 210px;
+    height: 40px;
+    background-color: lightblue;
+}
+.sspan{
+    border: 1px solid black;
+    font-size: x-large;
+    margin: 0;
+    background-color: limegreen;
+    width: 350px;
+}
+.myInp{
+   margin: 3px;
+  width: 34px;
+  float: right;
+}
+.but{
+    margin-top: 5px;
+}

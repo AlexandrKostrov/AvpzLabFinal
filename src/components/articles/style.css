@@ -1,0 +1,19 @@
+.article{
+    margin: 40px;
+    display: flex;
+    font-family: cursive;
+    border: rgb(19, 3, 61);
+    border-width: 3px 7px 7px 4px;
+    border-style: solid;
+}
+.comments{
+    margin-top: 0px;
+     
+    display: flex;
+    padding-left: 300px;
+  flex-direction: row;
+}
+.text-field{
+  width: 400px;
+    
+}

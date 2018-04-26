@@ -1,0 +1,9 @@
+.app {
+  display: flex;
+  padding-top: 10%;
+}
+
+main {
+  padding: 20px;
+  flex: 1;
+}
