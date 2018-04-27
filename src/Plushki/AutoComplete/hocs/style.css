@@ -1,0 +1,8 @@
+#autocomplete_result {
+    border: 1px solid silver;
+    border-top: 0;
+    position: absolute;
+    overflow: auto;
+    max-height: 93px;
+    background: #fff;
+  }
