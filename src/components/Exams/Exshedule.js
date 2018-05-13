@@ -77,7 +77,7 @@ class Exshedule extends React.Component{
    const {show}=this.state;
   return (
     <main>
-      {/* <h1>Exams Shedule</h1>
+      <h1>Exams Shedule</h1>
       <div>
          <div className="checkbox-div">
           <p className="sspan">History of Ukraine <input className="myInp" placeholder="1-200" ref={node=>{this.inp=node}} type="text" /></p> 
@@ -95,8 +95,8 @@ class Exshedule extends React.Component{
       <button className="but" onClick={this.turner}>Calculete</button>
      <div ref={this.handleDiv}>
      {show&&this.handleClick()}
-     </div> */}
-    <TestForm/>
+     </div>
+    {/* <TestForm/> */}
     </main>
   );}
 }
